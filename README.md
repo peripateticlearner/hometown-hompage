@@ -59,16 +59,15 @@ Defined using CSS variables in `:root`.
 ## 📁 Project Structure
 
 hometown-homepage/
-│
 ├── index.html
 ├── styles.css
 ├── README.md
 └── img/
-├── claremont-hero.jpg
-├── claremont-village.jpg
-├── claremont-hills.jpg
-├── claremont-colleges.jpg
-└── ali-kirat.jpg
+    ├── claremont-hero.jpg
+    ├── claremont-village.jpg
+    ├── claremont-hills.jpg
+    ├── claremont-colleges.jpg
+    └── ali-kirat.jpg
 
 
 ---
@@ -116,6 +115,6 @@ Original layout based on a Figma design adapted for Claremont:
 ## 👤 Author
 
 **Ali Kirat**  
-Frontend Developer & Educator  
+Software Engineer 
 
 Built as part of continued practice converting Figma designs into responsive HTML and CSS.
